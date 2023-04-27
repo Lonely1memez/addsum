@@ -1,7 +1,5 @@
-; who: Antonio Mora
 ; what: A program that loads values from meme and adds and subtracts
-; why: Topic 3 example
-; when: 2022-03-17
+
 
 section     .text
 
